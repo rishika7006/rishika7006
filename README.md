@@ -26,7 +26,7 @@ Previously **Data Engineer @ ZS Associates** for two years, working with AWS Sag
 | [**intent-classifier-xlnet**](https://github.com/rishika7006/intent-classifier-xlnet) | Fine-tuned XLNet for multi-label intent + VADER sentiment on Play Store reviews · [Demo](https://youtu.be/BTbv_WKnj1g) | XLNet · NLTK · VADER · Streamlit |
 | [**taskflow-kanban**](https://github.com/rishika7006/taskflow-kanban) | Real-time Kanban with drag-drop, RLS, comments, activity log · [Live](https://taskflow-kanban-gules.vercel.app) | React 19 · TypeScript · Supabase · Tailwind |
 | [**asl-recognition**](https://github.com/rishika7006/asl-recognition) | Three-stream ASL word recognition (optical flow + RGB + MediaPipe), late-fused for ≥80% top-1 on WLASL-100 | PyTorch · R(2+1)D-18 · OpenCV · MediaPipe |
-| [**cloud-security-project**](https://github.com/rishika7006/cloud-security-project) | Patient-controlled EHR sharing with KMS envelope encryption + chained-hash audit ledger on LocalStack | AWS · Flask · DynamoDB · KMS · Lambda |
+| [**secure-ehr-exchange**](https://github.com/rishika7006/secure-ehr-exchange) | Patient-controlled EHR sharing with KMS envelope encryption + chained-hash audit ledger on LocalStack | AWS · Flask · DynamoDB · KMS · Lambda |
 
 ---
 
@@ -38,4 +38,4 @@ Previously **Data Engineer @ ZS Associates** for two years, working with AWS Sag
 
 #### Reach me
 
-📫 **rxv240003@utdallas.edu** · [LinkedIn](TODO-add-your-linkedin-url) · [Personal](mailto:rishikavaish321@gmail.com)
+📫 **rxv240003@utdallas.edu** · [LinkedIn](https://www.linkedin.com/in/rishika-vaish) · [Personal](mailto:rishikavaish321@gmail.com)

@@ -25,7 +25,7 @@ Previously **Data Engineer @ ZS Associates** for two years, working with AWS Sag
 | [**misinformation-detector**](https://github.com/rishika7006/misinformation-detector) | Real-time explainable claim verification combining LLM + SBERT + DistilBERT stance · [Demo](https://youtu.be/-CFxmBYdRyM) | Streamlit · Transformers · SBERT · scikit-learn |
 | [**intent-classifier-xlnet**](https://github.com/rishika7006/intent-classifier-xlnet) | Fine-tuned XLNet for multi-label intent + VADER sentiment on Play Store reviews · [Demo](https://youtu.be/BTbv_WKnj1g) | XLNet · NLTK · VADER · Streamlit |
 | [**taskflow-kanban**](https://github.com/rishika7006/taskflow-kanban) | Real-time Kanban with drag-drop, RLS, comments, activity log · [Live](https://taskflow-kanban-gules.vercel.app) | React 19 · TypeScript · Supabase · Tailwind |
-| [**asl-recognition**](https://github.com/rishika7006/asl-recognition) | Three-stream ASL word recognition (optical flow + RGB + MediaPipe), late-fused for ≥80% top-1 on WLASL-100 | PyTorch · R(2+1)D-18 · OpenCV · MediaPipe |
+| [**asl-recognition**](https://github.com/rishika7006/asl-recognition) | Real-time ASL recognition from webcam: Farneback + RAFT optical flow, MediaPipe hand crop, MLP classifier, multi-threaded Flask demo | PyTorch · OpenCV · MediaPipe · Flask |
 | [**secure-ehr-exchange**](https://github.com/rishika7006/secure-ehr-exchange) | Patient-controlled EHR sharing with KMS envelope encryption + chained-hash audit ledger on LocalStack | AWS · Flask · DynamoDB · KMS · Lambda |
 
 ---

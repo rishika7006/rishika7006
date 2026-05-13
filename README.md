@@ -38,4 +38,4 @@ Previously **Data Engineer @ ZS Associates** for two years, working with AWS Sag
 
 #### Reach me
 
-📫 **rxv240003@utdallas.edu** · [LinkedIn](https://www.linkedin.com/in/rishika-vaish) · [Personal](mailto:rishikavaish321@gmail.com)
+📫 **rishika.vaish@utdallas.edu** · [LinkedIn](https://www.linkedin.com/in/rishika-vaish) · [Personal](mailto:rishikavaish321@gmail.com)
